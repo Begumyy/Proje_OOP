@@ -6,7 +6,7 @@ namespace Proje_OOP.Ornekler
     //SınıfAdı nesneadı=new SınıfAdı();
     public class Class1
     {
-        Product product = new Product();
+        
     }
 }
 //Product --> sınıf (class)
